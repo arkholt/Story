@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>08 The Folne -49-.txt</string>
+		</array>
+		<array>
+			<string>Antuvir.txt</string>
+		</array>
+		<array>
+			<string>Kathfolir.txt</string>
+		</array>
+		<array>
+			<string>Li'al.txt</string>
+		</array>
+		<array>
+			<string>Ruminations on the Folne.md</string>
+		</array>
+		<array>
+			<string>The Stranger.txt</string>
+		</array>
+	</array>
+</dict>
+</plist>

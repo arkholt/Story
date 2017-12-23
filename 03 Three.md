@@ -22,4 +22,4 @@ He passed out on whatever it was that, this time, had caught his fall.
 
 ***
 
-Galtinus was beyond upset. He was angry, which never happened to him, which made him even more angry.
+Galtinus had no idea what was going on. No one who wasn't a Fos Brashbif was allowed to enter the tower, and, in fact, its defenses were such that no one who wasn't a Fos Brashbif even *could*.

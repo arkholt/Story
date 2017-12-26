@@ -22,4 +22,4 @@ He passed out on whatever it was that, this time, had caught his fall.
 
 ***
 
-Galtinus had no idea what was going on. No one who wasn't a Fos Brashbif was allowed to enter the tower, and, in fact, its defenses were such that no one who wasn't a Fos Brashbif even *could*.
+Galtinus had no idea what was going on. No one who wasn't a Fos Brashbif was allowed to enter the tower, and, in fact, its defenses were such that no one who wasn't a Fos Brashbif even *could*. Somehow, however, an adolescent was now lying on the floor of one of the tower's corridors, not responding to anything that was said to him. The question of how he got in would need to be settled later, as he presently appeared to be in great danger of mental collapse.

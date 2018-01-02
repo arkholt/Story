@@ -1,0 +1,57 @@
+• Tap Code: <TECVAH IN EJHKLYOS PRISON>
+
+____________
+|  1 2 3 4 5
+|1 A B C D E
+|2 F G H I J
+|3 L M N O P
+|4 Q R S T U
+|5 V W X Y Z
+
+	x by y, "X" for sentence breaks, "K" replaced by "C"
+
+• Two Square Cipher: <NAMES IN CAIJABJR>
+
+	Two squares, horizontal or vertical, split message into digraphs, first letter of
+	digraph in first square, second letter in second square, make a rectangle.
+	
+	KEYS: Nisloroc, Briftin
+	
+N I S L O
+R C A B D
+E F G H J
+K M P T U
+V W X Y Z
+
+B R I F T
+N A C D E
+G H J K L
+M O P S U
+V W X Y Z
+
+	Names: Cashrift = Caijambjr
+		   Cashriftia = Caijambjria
+		   Krinncia = Mbnasnia
+		   Finllith = Grogsfmk
+		   Kriftlith = Mblrsfmk
+		   Zarchlia = Weanjkia
+		   Praptiff = Miappfhr
+
+• Bifid Cipher
+
+	One mixed alphabet polybius square, coordinated, convert message to coordinates,
+	list underneath plaintext, put second row of coordinates in behind first, split
+	into digraphs, turn new coordinates into letters using original square.
+	
+	KEY: Arkholt
+	
+  1 2 3 4 5
+1 A R K H O
+2 L T B C D
+3 E F G I J
+4 M N P S U
+5 V W X Y Z
+
+• Book and Running Key ciphers <NISLOROC'S PUZZLE IN CAIJABJR>
+
+	Use the book as a cipher.
